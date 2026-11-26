@@ -1,4 +1,4 @@
-Acestea sunt seturile de date din care puteți alegere o temă/subiect pentru proiectul individual de analiză exploratorie a datelor Machine Learning.
+Acestea sunt seturile de date din care puteți alegere o temă/subiect pentru proiectul individual de la analiză cantitativă.
 
 Pentru ghidaj, în fiecare director asociat unui set de date aveți o scurtă descriere a obiectivelor setului și variabilelor.
 
