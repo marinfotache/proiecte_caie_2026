@@ -21,7 +21,7 @@ Proiectul se va materializa într-un fișer PDF (pe care îl veți redacta în W
 
 Documentul va conține text, grafice și codul R. Foarte importantă este interpretarea voastră pentru rezultatele furnizate de analize, grafice, teste și modele.
 
-Proiectul va fi prezentat în fața colegilor, fiecare având 15 minute la dispoziție.
+Proiectul va fi prezentat în fața colegilor, în luna ianuarie sau februarie, fiecare având 10 minute la dispoziție.
 
 
 
